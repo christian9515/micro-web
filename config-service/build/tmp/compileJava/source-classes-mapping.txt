@@ -1,0 +1,2 @@
+academy/digitallab/store/config/ConfigServiceApplication.java
+ academy.digitallab.store.config.ConfigServiceApplication

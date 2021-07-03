@@ -1,0 +1,2 @@
+academy/digitallab/store/config/ConfigServiceApplicationTests.java
+ academy.digitallab.store.config.ConfigServiceApplicationTests
